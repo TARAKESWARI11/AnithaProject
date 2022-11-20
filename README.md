@@ -3,13 +3,21 @@
 #### This web based charity application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 #I have designed a website named save poor 
+
 #Here is my project demo link:
+
 #Here is my github Repositary Link:
+
 #Here is my helath bot can be used as help bot for any queries and it's link:
+
 #Azure technologies used for this project
+
 -Static web app
+
 -Health Bot
+
 #Screenshots![1](https://user-images.githubusercontent.com/113702287/202906847-bb114dca-0d25-4591-8c5c-8045f09aa922.jpg)
+
 ![2](https://user-images.githubusercontent.com/113702287/202906850-3c28c00a-4306-4900-bd94-251afa4c83e7.jpg)
 ![4](https://user-images.githubusercontent.com/113702287/202906853-11519ba6-4593-4102-87b5-eabea04131e6.jpg)
 ![5](https://user-images.githubusercontent.com/113702287/202906855-581bb6a7-29a5-411c-8492-f5140f100e55.jpg)
